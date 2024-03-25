@@ -1,5 +1,13 @@
 # Changelog
 
+## \[3.13.16]
+
+- [`7a851c8`](https://www.github.com/tauri-apps/create-tauri-app/commit/7a851c8733590ad268b5035eadb74f1d2536c2b5)([#647](https://www.github.com/tauri-apps/create-tauri-app/pull/647)) Ignore `gen/schemas` directory for `--beta` templates.
+
+### Dependencies
+
+- Upgraded to `create-tauri-app@3.13.16`
+
 ## \[3.13.15]
 
 - [`c90a561`](https://www.github.com/tauri-apps/create-tauri-app/commit/c90a5614780eb2b4f0cd5b9ca3ce527bd02bd177)([#645](https://www.github.com/tauri-apps/create-tauri-app/pull/645)) Fix incorrect schema path in beta template's capability.
